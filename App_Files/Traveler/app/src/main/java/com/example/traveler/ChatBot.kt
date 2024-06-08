@@ -107,7 +107,7 @@ class ChatBot : AppCompatActivity() {
 
         val request = Request.Builder()
             .url("https://api.openai.com/v1/completions")
-            .header("Authorization", "Bearer sk-proj-ywgX4RHpk311vc9get4aT3BlbkFJvImsXfBAyX55QIVHy9mh")
+            .header("Authorization", "Bearer Chat Bot Api Key")
             .post(body)
             .build()
 
