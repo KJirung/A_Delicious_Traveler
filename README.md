@@ -24,6 +24,13 @@
 <br/>
 
 ## ✔️Flow Chart
+- 프로그램의 전체적인 흐름도
+- 앱 내 카메라 및 저장소 액세스 접근 기능 구현
+- 이미지 탐지는 Yolov5m모델을 사용
+- 이미지 분류는 InceptionV3 모델을 사용
+- 2개의 딥러닝 모델을 앱 내에서 처리하는 온디바이스로 구현
+- 음식에 관한 정보는 RAG를 통해 LLM과 외부 데이터셋을 참조하여 제공
+
 ![image](https://github.com/KJirung/A_Delicious_Traveler/assets/142071404/ee2c16d1-1203-4f09-891d-7e13ff798b91)
 
 ---
