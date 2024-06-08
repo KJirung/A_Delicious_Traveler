@@ -40,3 +40,6 @@
 <br/>
 ## :video_camera:시연 영상
 
+
+![시연영상](https://github.com/KJirung/A_Delicious_Traveler/assets/142071404/e9935591-6bce-4cc5-ad6e-0ae44a678ae0)
+
