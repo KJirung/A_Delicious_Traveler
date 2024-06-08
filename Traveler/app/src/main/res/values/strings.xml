@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Traveler</string>
+    <string name="baseUrl">http://223.194.154.148:8090</string>
+</resources>
