@@ -1,0 +1,12 @@
+names:
+- food
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: korean-food-detector-ouxym
+  url: https://universe.roboflow.com/capstone-design-yolo-datasets/korean-food-detector-ouxym/dataset/1
+  version: 1
+  workspace: capstone-design-yolo-datasets
+test: datasets/test/images
+train: datasets/train/images
+val: datasets/valid/images
