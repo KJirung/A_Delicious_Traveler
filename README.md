@@ -32,7 +32,7 @@
 - 프로그래밍 언어
    - Kotlin, Python
 - 프레임워크
-   - Pytorch, Tensorflow, Keras
+   - Pytorch, Tensorflow, Keras 
 - 개발 도구 및 환경
    - Android Studio, Visual Studio Code, Jupyter Notebook
 
